@@ -1,0 +1,15 @@
+{
+    "name": "asgard-ui",
+    "description": "A Customizable Flat UI Theme.",
+    "homepage": "http://sathyamvellal.in/asgard",
+    "version": "0.0.0",
+    "keywords": [
+        "css",
+        "flat",
+        "ui"
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "components-bootstrap": ">=3.2.0"
+    }
+}
